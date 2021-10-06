@@ -1,0 +1,17 @@
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Application.deps.json
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Application.dll
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\ref\MB.Application.dll
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Application.pdb
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.dll
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Domain.dll
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\bin\Debug\net5.0\MB.Domain.pdb
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.AssemblyReference.cache
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CoreCompileInputs.cache
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.csproj.CopyComplete
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.dll
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\ref\MB.Application.dll
+H:\Full Stack__Software Engineering\Back_End_Web\ASP.Net Core5\11-Master Blogger - Article Category Implementation\Master_Blogger\MB.Application\obj\Debug\net5.0\MB.Application.pdb
